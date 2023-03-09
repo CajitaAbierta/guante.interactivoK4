@@ -12,6 +12,30 @@ Este proyecto fué realizado en el marco de la presentación del tercer show del
 
 ![Interfaz_para show](https://user-images.githubusercontent.com/127367351/224158152-60173c52-3ff5-4a0f-ae1d-1c132d4a58f0.jpeg)
 
+# Links del registro del show
+https://drive.google.com/drive/folders/1JL5GasdPkAZ7SetO1-40z9jYQf1Gejrp?usp=share_link
+
+# Hardware
+
+### ESP 32 
+Nodemcu ESP 32 Wifi+Bluetooth 4.2 lot Wroom Esp32 Arduino
+
+### PCB (Cajita UNTREF)
+https://github.com/YESI360/ESP32Udp/tree/main/hardware
+
+Sensores
+### Flex
+Tantos como sean necesarios / el código queda dispuesto para la colocación de 1 o más flexos.
+El funcionamiento correcto de estos sensores es con su resistencia pull-down. 
+
+### Giroscopio y Acelerómetro - Mpu 6050
+
+### Módulo de carga Tp4056 Micro USB 5V 1A para baterías litio
+
+### Batería Lipo 3.7V 1200 mah
+
+### Botón pulsador
+
 
 # Librerías usadas
 
